@@ -9,9 +9,8 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo (TCCI)
-* Nome do orientador de acadêmico (TCCI)
-* Nome do orientador de TCC II
+* Nome do orientador de conteúdo
+* Nome do orientador de acadêmico 
 
 ## Instruções de Replicação/Reprodução
 

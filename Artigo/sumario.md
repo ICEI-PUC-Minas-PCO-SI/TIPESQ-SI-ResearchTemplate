@@ -3,8 +3,8 @@
 1. Nome do aluno 1
 1. Nome do aluno 2 (se houver)
 
-* Nome do orientador de conteúdo
-* Nome do orientador acadêmico
+* Nome do professor orientador de conteúdo
+* Nome do professor orientador acadêmico (se houver)
 
 ## Introdução
 

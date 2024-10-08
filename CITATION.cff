@@ -1,0 +1,19 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: 
+authors:
+  - family-names: sobrenome do aluno 1
+    given-names: Nome do aluno 1 
+  - family-names: sobrenome do aluno 2
+    given-names: Nome do aluno 2 
+  - name-suffix: Professora
+    affiliation: PUC Minas
+    family-names: Ponciano
+    given-names: Lesandro 
+keywords:
+  - 
+  - 
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released:

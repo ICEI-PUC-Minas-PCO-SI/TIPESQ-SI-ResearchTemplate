@@ -9,8 +9,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo
-* Nome do orientador de acadêmico 
+* [Lesandro Ponciano](https://orcid.org/0000-0002-5724-0094)
 
 ## Instruções de Replicação/Reprodução
 
